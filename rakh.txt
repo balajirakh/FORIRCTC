@@ -1,0 +1,15 @@
+org.springframework.boot.StartupInfoLogger 2023-11-25 16:55:46,527 logStarting  INFO Starting Logger2Application using Java 17.0.7 with PID 10176 (D:\Logger\Logger2\target\classes started by admin in D:\Logger\Logger2) 50 
+org.springframework.boot.SpringApplication 2023-11-25 16:55:46,528 logStartupProfileInfo  INFO No active profile set, falling back to 1 default profile: "default" 653 
+org.springframework.boot.web.embedded.tomcat.TomcatWebServer 2023-11-25 16:55:46,837 initialize  INFO Tomcat initialized with port 7676 (http) 108 
+org.apache.juli.logging.DirectJDKLog 2023-11-25 16:55:46,838 log  INFO Starting service [Tomcat] 173 
+org.apache.juli.logging.DirectJDKLog 2023-11-25 16:55:46,838 log  INFO Starting Servlet engine: [Apache Tomcat/10.1.16] 173 
+org.apache.juli.logging.DirectJDKLog 2023-11-25 16:55:46,889 log  INFO Initializing Spring embedded WebApplicationContext 173 
+org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext 2023-11-25 16:55:46,890 prepareWebApplicationContext  INFO Root WebApplicationContext: initialization completed in 358 ms 296 
+org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer 2023-11-25 16:55:47,059 startServer  INFO LiveReload server is running on port 35729 59 
+org.springframework.boot.web.embedded.tomcat.TomcatWebServer 2023-11-25 16:55:47,071 start  INFO Tomcat started on port 7676 (http) with context path '' 221 
+org.springframework.boot.StartupInfoLogger 2023-11-25 16:55:47,078 logStarted  INFO Started Logger2Application in 0.625 seconds (process running for 97.136) 56 
+org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener 2023-11-25 16:55:47,080 onApplicationEvent  INFO Condition evaluation unchanged 63 
+org.apache.juli.logging.DirectJDKLog 2023-11-25 16:55:52,438 log  INFO Initializing Spring DispatcherServlet 'dispatcherServlet' 173 
+org.springframework.web.servlet.FrameworkServlet 2023-11-25 16:55:52,439 initServletBean  INFO Initializing Servlet 'dispatcherServlet' 532 
+org.springframework.web.servlet.FrameworkServlet 2023-11-25 16:55:52,440 initServletBean  INFO Completed initialization in 1 ms 554 
+org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener 2023-11-25 16:59:27,938 onApplicationEvent  INFO Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification) 211 
