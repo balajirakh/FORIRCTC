@@ -57,7 +57,7 @@
                     <!-- Additional configurations if needed -->
                 </configuration>
             </plugin>
-		<plugins>
+		
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
